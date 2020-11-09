@@ -1,0 +1,86 @@
+{
+  "main": {
+    "id": "8663d7d7920f8462",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5d04e2550611df",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "people/school-college.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7323e55ec5399458",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8a1c86a1bc97985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70126193f529c635",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "35ddc4db246776ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fc6f6f4b950565d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa772437e9d0da2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46e5e5be632c2879",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "people/school-college.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "people/school-college.md",
+    "devices/e-readers.md",
+    "devices/arm-plugs.md",
+    "apps/android.md",
+    "devices/laptop.md"
+  ]
+}
