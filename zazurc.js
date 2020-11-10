@@ -1,5 +1,0 @@
-{
-  "plugins": [
-    "tinytacoteam/zazu-clipboard"
-  ]
-}
