@@ -1,20 +1,9 @@
-# Daily Journals - One Liner
+# Making
 
-- 
-
-
-
-
-
-
-
-
-
-
-
-```
+* 
+```text
 Workflow for One Liners :
 - Use a Terminal to quickly add journal items
-- add2wiki Background Process 
+- add2wiki Background Process
 ```
 

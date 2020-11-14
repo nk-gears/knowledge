@@ -1,6 +1,7 @@
-# Your Book Title
+# Table of contents
 
-- Apps
+* [Introduction](README.md)
+* [Apps](apps/README.md)
   * [Android](apps/android.md)
   * [Dot Files](apps/dot-files.md)
   * [Ios Jailbreaks](apps/ios-jailbreaks.md)
@@ -10,29 +11,29 @@
   * [Windows](apps/windows.md)
   * [Wish To Make](apps/wish-to-make.md)
   * [Wish To See](apps/wish-to-see.md)
-- Automation
+* [Automation](automation/README.md)
   * [Background Job](automation/background-job.md)
   * [Bookmarklets](automation/bookmarklets.md)
   * [Cron Job](automation/cron-job.md)
   * [init.d](automation/init.d.md)
   * [Systemd](automation/systemd.md)
-- Books
+* [Books](books/README.md)
   * [Reading](books/reading.md)
   * [Writing](books/writing.md)
-- Career
+* [Career](career/README.md)
   * [Freelancing](career/freelancing.md)
   * [Fulltime Job](career/fulltime-job.md)
-- Cloud
+* [Cloud](cloud/README.md)
   * [Iac](cloud/iac.md)
-- Discoveries
+* [Discoveries](discoveries/README.md)
   * [Beliefs](discoveries/beliefs.md)
   * [Mindfullness](discoveries/mindfullness.md)
   * [Quotes](discoveries/quotes.md)
   * [Self](discoveries/self.md)
   * [Time](discoveries/time.md)
   * [Today I Learnt](discoveries/today-i-learnt.md)
-- Hardware
-  - Devices
+* [Hardware](hardware/README.md)
+  * [Devices](hardware/devices/README.md)
     * [Arm Plugs](hardware/devices/arm-plugs.md)
     * [Azure Sphere](hardware/devices/azure-sphere.md)
     * [Desktop](hardware/devices/desktop.md)
@@ -41,7 +42,7 @@
     * [Mobile](hardware/devices/mobile.md)
     * [No More](hardware/devices/no-more.md)
     * [Raspberry Pi](hardware/devices/raspberry-pi.md)
-  - Operating Systems
+  * [Operating Systems](hardware/operating-systems/README.md)
     * [Android](hardware/operating-systems/android.md)
     * [Fedora](hardware/operating-systems/fedora.md)
     * [Linux](hardware/operating-systems/linux.md)
@@ -49,41 +50,42 @@
     * [Other](hardware/operating-systems/other.md)
     * [Raspbian](hardware/operating-systems/raspbian.md)
     * [Windows](hardware/operating-systems/windows.md)
-- Home
-  - [Food](home/food/food.md)
+* [Home](home/README.md)
+  * [Food](home/food.md)
   * [Purchases](home/purchases.md)
-- [How To](how-to/README.md)
-- [Meta](meta/meta.md)
+* [How To](how-to.md)
+* [Meta](meta/README.md)
   * [Reference](meta/reference.md)
-- Now
+* [Now](now/README.md)
   * [Courses](now/courses.md)
   * [Daily One Liner](now/daily-one-liner.md)
   * [Learn To](now/learn-to.md)
   * [Making](now/making.md)
-- [People](people/readme.md)
+* [People](people/README.md)
   * [Childhood](people/childhood.md)
   * [Internet](people/internet.md)
   * [School College](people/school-college.md)
   * [Thank You](people/thank-you.md)
   * [Work Office](people/work-office.md)
-- [Private](private/README.md)
-- Projects
-  - Explorations
+* [Private](private.md)
+* [Projects](projects/README.md)
+  * [Explorations](projects/explorations/README.md)
     * [Cast Music](projects/explorations/cast-music.md)
     * [Diy Relay Switch](projects/explorations/diy-relay-switch.md)
     * [Nook Dislplay](projects/explorations/nook-dislplay.md)
-  - Products
+  * [Products](projects/products/README.md)
     * [Stream Scheduler](projects/products/stream-scheduler.md)
-- Sharing
+* [Sharing](sharing/README.md)
   * [Everything I Know](sharing/everything-i-know.md)
-- Software
-  - Code Snippets
+* [Software](software/README.md)
+  * [Code Snippets](software/code-snippets/README.md)
     * [App Script](software/code-snippets/app-script.md)
     * [Nodejs](software/code-snippets/nodejs.md)
     * [Powershell](software/code-snippets/powershell.md)
     * [Python](software/code-snippets/python.md)
-  - Programming
+  * [Programming](software/programming/README.md)
     * [Package Managers](software/programming/package-managers.md)
     * [Snippets](software/programming/snippets.md)
   * [Backend](software/backend.md)
   * [Frontend](software/frontend.md)
+
