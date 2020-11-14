@@ -1,7 +1,6 @@
 # No More
 
-
-CRT TV
-Creative Music Player
-Macbook Adapter
-PogoPlug Adapter
+- Binatone CRT TV
+- Creative Music Player
+- Macbook Adapter
+- PogoPlug Adapter
