@@ -8,6 +8,5 @@ Folder Sructure
 ##### Community and Open Source Project Related
 - /projects/community
 
-
-##### DotFiles, Scripts and Other Utilities
+##### DotFiles, Scripts, Finder ToolBar Launcers and Other Utilities
 - /projects/utilities
