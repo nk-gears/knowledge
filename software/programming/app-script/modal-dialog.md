@@ -1,6 +1,6 @@
 # Modal Dialogs
 
-```
+```javascript
 
 function _showModal() {
 
@@ -17,7 +17,7 @@ function _showModal() {
   .setHeight(400)
   .setWidth(750)
   
-  SpreadsheetApp.getUi().showModalDialog(htmlF, ' - Runner Utility');
+  SpreadsheetApp.getUi().showModalDialog(htmlF, ' Utility');
  
 }
 ```
