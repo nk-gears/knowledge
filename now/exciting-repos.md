@@ -6,6 +6,8 @@
 
 - VuePress Reco - Theme
 - VueJS
+- Docsify : Documentation
+- Docusarus
 
 - **Frappe Books** 
   - Desktop (Electron + VueJS Based + sqlite ) Account App for Freelancers
