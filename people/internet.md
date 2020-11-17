@@ -16,11 +16,9 @@ Bloggers, Writers, Makers, Artists, Designers, Teachers, Vloggers
 
 - Janakiram MSV
 
-- Jayendran 
-
-- Sister Shivani
-
 - Scott Hanselman
+
+- Jessie Frazelle
 
   
 
@@ -28,11 +26,13 @@ Bloggers, Writers, Makers, Artists, Designers, Teachers, Vloggers
 
 - LMES
 - Vercel
-- Now
+- Netlify
 - TheNewStack.IO
 - TowardsDataScience
+- Magalix
 
 ### Youtubers
 
 - Anitha Anand
 - Madras Samayal
+- Sister Shivani
