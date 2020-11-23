@@ -29,4 +29,4 @@
 
 - Use RaspberryPi as a Controller via Forked-Daapd
 - Use a MicroSD Card to Put all the Songs Instead of using the External HDD. (it uses more Power and Not reliable)
-- 
+- Finally Figured out a right way to stream my music on all devices with latest Forked-Daapd
