@@ -26,7 +26,7 @@ Backend => Lambda : provokeMessage() : 2 Hours Interval device activity => Alexa
 
 mode : 
 
-- sensor_status_changed
+- sensor_status_changed`
 - achievements 
 - 
 
